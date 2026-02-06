@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppStatProvider</id>
+    <version>0.1.0</version>
+    <authors>AbhishekM</authors>
+    <description>Lightweight APM agent for development and testing</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/workspaces/codespaces-blank/CustomAppStatProvider/bin/Release/net10.0/AppStatProvider.dll" target="lib/net10.0/AppStatProvider.dll" />
+  </files>
+</package>

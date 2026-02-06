@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/CustomAppStatProvider/bin/Debug/net10.0/AppStatProvider.deps.json
+/workspaces/codespaces-blank/CustomAppStatProvider/bin/Debug/net10.0/AppStatProvider.dll
+/workspaces/codespaces-blank/CustomAppStatProvider/bin/Debug/net10.0/AppStatProvider.pdb
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/CustomAppStatProvider.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/CustomAppStatProvider.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/CustomAppStatProvider.AssemblyInfo.cs
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/CustomAppStatProvider.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/AppStatProvider.dll
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/refint/AppStatProvider.dll
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/AppStatProvider.pdb
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Debug/net10.0/ref/AppStatProvider.dll

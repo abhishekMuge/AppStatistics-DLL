@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+
+      <!-- Library identity -->
+    <AssemblyName>AppStatProvider</AssemblyName>
+    <RootNamespace>AppStatProvider</RootNamespace>
+
+    <PackageId>AppStatProvider</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>AbhishekM</Authors>
+    <Company>Internal</Company>
+    <Description>Lightweight APM agent for development and testing</Description>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
