@@ -9,3 +9,4 @@
 /workspaces/codespaces-blank/CustomAppStatProvider/obj/Release/net10.0/refint/AppStatProvider.dll
 /workspaces/codespaces-blank/CustomAppStatProvider/obj/Release/net10.0/AppStatProvider.pdb
 /workspaces/codespaces-blank/CustomAppStatProvider/obj/Release/net10.0/ref/AppStatProvider.dll
+/workspaces/codespaces-blank/CustomAppStatProvider/obj/Release/net10.0/CustomAppStatProvider.sourcelink.json

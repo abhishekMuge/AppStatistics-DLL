@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/GCPauseDemo/bin/Debug/net10.0/GCPauseDemo
+/workspaces/codespaces-blank/GCPauseDemo/bin/Debug/net10.0/GCPauseDemo.deps.json
+/workspaces/codespaces-blank/GCPauseDemo/bin/Debug/net10.0/GCPauseDemo.runtimeconfig.json
+/workspaces/codespaces-blank/GCPauseDemo/bin/Debug/net10.0/GCPauseDemo.dll
+/workspaces/codespaces-blank/GCPauseDemo/bin/Debug/net10.0/GCPauseDemo.pdb
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.AssemblyInfo.cs
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.sourcelink.json
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.dll
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/refint/GCPauseDemo.dll
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.pdb
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/GCPauseDemo.genruntimeconfig.cache
+/workspaces/codespaces-blank/GCPauseDemo/obj/Debug/net10.0/ref/GCPauseDemo.dll

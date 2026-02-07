@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Lightweight APM agent for development and testing")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+a556a47d25a13579f390c65d5399f88f6934d237")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+3c2c8d8f7d37309e2c9571d4e761583bf3be7ca6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppStatProvider")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppStatProvider")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]
